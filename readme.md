@@ -1,4 +1,4 @@
-# An homemade Duplex Bot to anti Duplex stupid&discourtesy phone call
+# A homemade Duplex Bot to anti Duplex stupid&discourtesy phone call
 
 越来越多的公司使用智能外呼机器人来做电话销售推广。
 
@@ -16,3 +16,7 @@
 - 简单场景，可以作为您的私人管家，提取电话中有用的信息，帮你创建备注
 
 接电话从未如此省心
+
+## Architechture
+
+SpringBoot K8S Redux Node.js
